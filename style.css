@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: rgb(64, 10, 100);
+}
+
+a {
+    color: #fff;
+    background-color: #8a2be2;
+    text-decoration: none;
+    display: block;
+    margin: 12px 0;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+a:hover {
+    background-color: #9d47ee;
+}
